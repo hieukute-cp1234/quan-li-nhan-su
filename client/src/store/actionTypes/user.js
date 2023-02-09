@@ -1,0 +1,9 @@
+export const FETCH_LIST_PM = "FETCH_LIST_PM";
+export const SET_LIST_PM = "SET_LIST_PM";
+export const FETCH_LIST_USERS = "FETCH_LIST_USERS";
+export const SET_LIST_USERS = "SET_LIST_USERS";
+export const ADD_USERS = "ADD_USERS";
+export const UPDATE_USERS = "UPDATE_USERS";
+export const FETCH_USER_BY_ID = "FETCH_USER_BY_ID";
+export const SET_USER_BY_ID = "SET_USER_BY_ID";
+export const UPDATE_AVATAR = "UPDATE_AVATAR";

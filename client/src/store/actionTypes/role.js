@@ -1,0 +1,4 @@
+export const FETCH_ALL_ROLE = "FETCH_ALL_ROLE";
+export const FETCH_ADD_ROLE = "FETCH_ADD_ROLE";
+export const FETCH_UPDATE_ROLE = "FETCH_UPDATE_ROLE";
+export const DEELETE_ROLE = "DELETE_ROLE";
